@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+         "name": "Anish Garg",
+         "Age" : 24,
+         "Qualification" : "B.Tech",
+         "Address": "Sarai Khwaja",
+         "E_mail": "garganis55@gmail.com"
+    },
+    {
+        "id":2,
+         "name": "Ashish Garg",
+         "Age" : 28,
+         "Qualification" : "B.Tech",
+         "Address": "Sarai Khwaja",
+         "E_mail": "ashishgarg3705@gmail.com"
+        
+    },
+    {
+        "id":3,
+         "name": "Avinash",
+         "Age" : 23,
+         "Qualification" : "B.Tech",
+         "Address": "Sarai Khwaja",
+         "E_mail": "chutiyaAvinash@gmail.com",
+         "Bio": "A Chutiya Boy"
+    },
+    {
+        "id":4,
+         "name": "Fardeen",
+         "Age" : 23,
+         "Qualification" : "B.Tech",
+         "Address": "Sarai Khwaja",
+         "E_mail": "fardeen56@gmail.com"
+    },
+    {
+        "id":5,
+         "name": "Shishir",
+         "Age" : 24,
+         "Qualification" : "B.Tech",
+         "Address": "Sarai Khwaja",
+         "E_mail": "sharmashishir58@gmail.com"
+    }
+]
